@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-label="GitHub in numbers"><title>GitHub in numbers</title><defs>
+<linearGradient id="pc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".075"/><stop offset="1" stop-color="#fff" stop-opacity=".015"/></linearGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0" y="0" width="1200" height="116" rx="20" fill="#080B12"/>
+<defs><linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient></defs>
+<text x="32" y="56" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="44" letter-spacing="-.5" fill="#F8FAFC">GitHub in numbers</text>
+<text x="34" y="88" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#94A3B8">Generated live from my GitHub account.</text>
+<line x1="32" y1="104" x2="1168" y2="100" stroke="#fff" stroke-opacity=".08"/>
+<rect x="32" y="103" width="72" height="3" rx="1.5" fill="url(#pc)"/>
+<rect x="-320" y="102.5" width="320" height="3" fill="url(#sw)" opacity=".9"><animateTransform attributeName="transform" type="translate" from="0 0" to="1600 0" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

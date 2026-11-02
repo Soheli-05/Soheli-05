@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Footer"><title>Footer</title><defs>
+<linearGradient id="pc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".075"/><stop offset="1" stop-color="#fff" stop-opacity=".015"/></linearGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<defs><linearGradient id="fw" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="170" rx="20" fill="#080B12"/>
+<path d="M0 70 Q150 36 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 T2100 70" fill="none" stroke="url(#fw)" stroke-width="2" opacity="0.7"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="16s" repeatCount="indefinite"/></path><path d="M0 86 Q150 60 300 86 T600 86 T900 86 T1200 86 T1500 86 T1800 86 T2100 86" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.2"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="22s" repeatCount="indefinite"/></path><path d="M0 100 Q150 70 300 100 T600 100 T900 100 T1200 100 T1500 100 T1800 100 T2100 100" fill="none" stroke="#A78BFA" stroke-width="1.5" opacity="0.18"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="28s" repeatCount="indefinite"/></path>
+<text x="600" y="140" text-anchor="middle" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="20" fill="#F8FAFC">Soheli Panda</text>
+<text x="600" y="162" text-anchor="middle" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#94A3B8">Software engineer in progress. Thanks for stopping by.</text>
+</svg>
